@@ -11,7 +11,7 @@ Sinta-se livre para contribuir.
 ## TI e Redes
 | Tecnologia | Quem oferece | Descrição | Link |
 |--|--|--|--|
-| Redes, Sist. Operacionais, IoT, Automação, Infraestrutura, Packet Tracer | Cisco Networking Academy | Mais de 25 cursos, desenvolvidos para te auxiliar na obtenção de uma certificação Cisco ou semelhantes, reconhecidas pelo mercado  | [Link 📡](https://www.netacad.com/pt-br) |
+| Redes, Sistemas Operacionais, IoT, Automação, Infraestrutura, Packet Tracer | Cisco Networking Academy | Mais de 25 cursos, desenvolvidos para te auxiliar na obtenção de uma certificação Cisco ou semelhantes, reconhecidas pelo mercado  | [Link 📡](https://www.netacad.com/pt-br) |
 
 ## Marketing & Negócios
 | Foco | Quem oferece | Descrição | Link |
